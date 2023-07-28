@@ -8,3 +8,4 @@ I am developed using this HTML,CSS, Javascript
 // On Submit Answer answer will be comopare with random generator answer
 // If Answer will be correct than score will be incremented
 // If answer will be wrong than score will be decremented
+PROJECT LINK http://127.0.0.1:5500/index.html?answer=2
